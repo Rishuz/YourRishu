@@ -82,7 +82,7 @@ async def gib_repo(client, CallbackQuery, _):
     await CallbackQuery.edit_message_media(
         InputMediaVideo(
             "https://envs.sh/RYX.mp4", 
-            caption= f"**❖ ๏ ʟᴇᴛ's ɪɴᴛʀᴏᴅᴜᴄᴇ ʀɪsʜᴜ-ᴍᴜsɪᴄ ʙᴏᴛ\n\n➻ [ʀɪsʜᴜ-ᴍᴜsɪᴄ](https://t.me/{app.username})  ɪs ᴏɴᴇ ᴏғ ᴛʜᴇ ʙᴇsᴛ ᴍᴜsɪᴄ | ᴠɪᴅᴇᴏ sᴛꝛᴇᴀᴍɪɴɢ ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢꝛᴧᴍ ғᴏꝛ ʏᴏᴜꝛ ɢꝛᴏᴜᴘs ᴀɴᴅ ᴄʜᴧɴɴᴇʟ\n\n๏ ᴡʜʏ [˹ ʀɪsʜᴜ ᴍᴜsɪᴄ ˼](https://t.me/UR_RISHU_143) ɪs ʙᴇsᴛ ?\n\n⦿━━━━━━━━━━━━━━━━━━━━━⦿\n➻ ʙᴇsᴛ sᴏᴜɴᴅ ǫᴜᴀʟɪᴛʏ\n➻ ᴍᴜsɪᴄ ʙᴏᴛ ғᴇᴀᴛᴜʀᴇs\n➻ ɴᴏ ʏᴛ ɪᴘ ʙʟᴏᴄᴋ ɪssᴜᴇ\n➻ ɴᴏ ᴘꝛᴏᴍᴏᴛɪᴏɴᴧʟ ᴧᴅs \n➻ ꝛᴇ-ᴇᴅɪᴛᴇᴅ ᴄᴏꝛᴇ | ʜɪɢʜʟʏ ᴏᴘᴛɪᴍɪsᴇ\n➻ ɴᴏ ʟᴧɢ ᴀɴᴅ ᴅᴏᴡɴ-ᴛɪᴍᴇ\n➻ ᴍᴀɴʏ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs........\n⦿━━━━━━━━━━━━━━━━━━━━━⦿\n\nᴀʟʟ ᴛʜᴇ ғᴇᴀᴛᴜʀᴇs ᴀʀᴇ ᴡᴏʀᴋɪɴɢ ғɪɴᴇ\n\n❖ [Jᴏɪɴ ᴄʜᴀɴɴᴇʟ](https://t.me/UR_RISHU_143) |×| [ɢʀᴏᴜᴘ](https://t.me/UR_support07)**"
+            caption= f"**❖ ๏ ʟᴇᴛ's ɪɴᴛʀᴏᴅᴜᴄᴇ ʀɪsʜᴜ-ᴍᴜsɪᴄ ʙᴏᴛ\n\n➻ [「⋆ 𝐍azuna ✘ ᴍᴜsɪᴄ ◉」♪](https://t.me/{app.username})  ɪs ᴏɴᴇ ᴏғ ᴛʜᴇ ʙᴇsᴛ ᴍᴜsɪᴄ | ᴠɪᴅᴇᴏ sᴛꝛᴇᴀᴍɪɴɢ ʙᴏᴛ ᴏɴ ᴛᴇʟᴇɢꝛᴧᴍ ғᴏꝛ ʏᴏᴜꝛ ɢꝛᴏᴜᴘs ᴀɴᴅ ᴄʜᴧɴɴᴇʟ\n\n๏ ᴡʜʏ [「⋆ 𝐍azuna ✘ ᴍᴜsɪᴄ ◉」♪](https://t.me/UR_RISHU_143) ɪs ʙᴇsᴛ ?\n\n⦿━━━━━━━━━━━━━━━━━━━━━⦿\n➻ ʙᴇsᴛ sᴏᴜɴᴅ ǫᴜᴀʟɪᴛʏ\n➻ ᴍᴜsɪᴄ ʙᴏᴛ ғᴇᴀᴛᴜʀᴇs\n➻ ɴᴏ ʏᴛ ɪᴘ ʙʟᴏᴄᴋ ɪssᴜᴇ\n➻ ɴᴏ ᴘꝛᴏᴍᴏᴛɪᴏɴᴧʟ ᴧᴅs \n➻ ꝛᴇ-ᴇᴅɪᴛᴇᴅ ᴄᴏꝛᴇ | ʜɪɢʜʟʏ ᴏᴘᴛɪᴍɪsᴇ\n➻ ɴᴏ ʟᴧɢ ᴀɴᴅ ᴅᴏᴡɴ-ᴛɪᴍᴇ\n➻ ᴍᴀɴʏ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs........\n⦿━━━━━━━━━━━━━━━━━━━━━⦿\n\nᴀʟʟ ᴛʜᴇ ғᴇᴀᴛᴜʀᴇs ᴀʀᴇ ᴡᴏʀᴋɪɴɢ ғɪɴᴇ\n\n❖ [Jᴏɪɴ ᴄʜᴀɴɴᴇʟ](https://t.me/UR_RISHU_143) |×| [ɢʀᴏᴜᴘ](https://t.me/UR_support07)**"
         ),
         reply_markup=InlineKeyboardMarkup(
             [
@@ -108,7 +108,7 @@ async def gib_repo(client, CallbackQuery, _):
     await CallbackQuery.edit_message_media(
         InputMediaVideo(
             "https://envs.sh/Rke.mp4", 
-            caption= f"**❖ ʜᴇʏ ᴅᴇᴀʀ ᴛʜɪs ɪs ᴀ ǫᴜɪᴄᴋ ᴀɴᴅ sɪᴍᴘʟᴇ ɢᴜɪᴅᴇ ᴛᴏ ᴜsɪɴɢ [ʀɪsʜᴜ-ᴍᴜsɪᴄ](https://t.me/UR_RISHU_143)\n\n1) ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ 'ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ' ʙᴜᴛᴛᴏɴ\n2) sᴇʟᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɴᴀᴍᴇ\n3) ɢʀᴀɴᴛ ᴛʜᴇ ʙᴏᴛ ᴀʟʟ ɴᴇᴄᴇssᴀʀʏ ᴘᴇʀᴍɪssɪᴏɴs ғᴏʀ sᴍᴏᴏᴛʜ ᴀɴᴅ ғᴜʟʟ ғᴜɴᴄᴛɪᴏɴᴀʟɪᴛʏ\n\nᴛᴏ ᴀᴄᴄᴇss ᴄᴏᴍᴍᴀɴᴅs, ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏsᴇ ʙᴇᴛᴡᴇᴇɴ ᴍᴜsɪᴄ ᴘʀᴇғᴇʀᴇɴᴄᴇs ɪғ ʏᴏᴜ sᴛɪʟʟ ғᴀᴄᴇ ᴀɴʏ ɪssᴜᴇs, ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ ʀᴇᴀᴄʜ ᴏᴜᴛ ғᴏʀ sᴜᴘᴘᴏʀᴛ**"
+            caption= f"**❖ ʜᴇʏ ᴅᴇᴀʀ ᴛʜɪs ɪs ᴀ ǫᴜɪᴄᴋ ᴀɴᴅ sɪᴍᴘʟᴇ ɢᴜɪᴅᴇ ᴛᴏ ᴜsɪɴɢ [「⋆ 𝐍azuna ✘ ᴍᴜsɪᴄ ◉」♪](https://t.me/UR_RISHU_143)\n\n1) ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ 'ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ' ʙᴜᴛᴛᴏɴ\n2) sᴇʟᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɴᴀᴍᴇ\n3) ɢʀᴀɴᴛ ᴛʜᴇ ʙᴏᴛ ᴀʟʟ ɴᴇᴄᴇssᴀʀʏ ᴘᴇʀᴍɪssɪᴏɴs ғᴏʀ sᴍᴏᴏᴛʜ ᴀɴᴅ ғᴜʟʟ ғᴜɴᴄᴛɪᴏɴᴀʟɪᴛʏ\n\nᴛᴏ ᴀᴄᴄᴇss ᴄᴏᴍᴍᴀɴᴅs, ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏsᴇ ʙᴇᴛᴡᴇᴇɴ ᴍᴜsɪᴄ ᴘʀᴇғᴇʀᴇɴᴄᴇs ɪғ ʏᴏᴜ sᴛɪʟʟ ғᴀᴄᴇ ᴀɴʏ ɪssᴜᴇs, ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ ʀᴇᴀᴄʜ ᴏᴜᴛ ғᴏʀ sᴜᴘᴘᴏʀᴛ**"
         ),
         reply_markup=InlineKeyboardMarkup(
             [
@@ -166,9 +166,9 @@ async def gib_repo(client, CallbackQuery, _):
         ),
         reply_markup=InlineKeyboardMarkup(
             [
-[InlineKeyboardButton(text="˹ ❍ᴡɴᴇꝛ ˼", user_id="5738579437")],
-[InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"t.me/ur_rishu_143"),
-InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", url=f"t.me/ur_support07")],
+[InlineKeyboardButton(text="˹ ❍ᴡɴᴇꝛ ˼", user_id="5446367898")],
+[InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/Animes_India_bot"),
+InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", url=f"https://t.me/Animes_India_bots_support_group")],
 [InlineKeyboardButton(text="• ᴀʟʟ ʙᴏᴛs •", url=f"t.me/vip_robotz/4"),
 InlineKeyboardButton(text="• ᴀʟʟ ᴀᴘɪ •", url=f"t.me/rishuapi")],
 [InlineKeyboardButton(text="⌬ ʙᴀᴄᴋ ⌬", callback_data=f"gibt_source")],
