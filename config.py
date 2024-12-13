@@ -30,7 +30,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1001992970818))
 
 
-# Get this value from @PURVI_HELP_BOT on Telegram by /id
+# Get this value from  on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID", 6726372149))
 
 
@@ -91,10 +91,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://envs.sh/3d3.jpg"
+    "START_IMG_URL", "https://graph.org/file/2b679a159d9d8795759af-e60b2920c692bacf73.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://envs.sh/3d4.jpg"
+    "PING_IMG_URL", "https://graph.org/file/f5853d2ebb78c3788c6e1-6dd6a6eeda52c6378d.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/9acd828ec45a363add2e9.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/yfvai0.jpg"
